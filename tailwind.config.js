@@ -12,7 +12,7 @@ module.exports = {
           medium: '500',
           semibold: '600',
           bold: '700',
-          extrabold: '800',
+          extrabold: '750',
           'extra-bold': '800',
           black: '900',
         }
